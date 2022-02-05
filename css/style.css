@@ -44,6 +44,11 @@ body {
 
 }
 
+span {
+    display: inline-block;
+    width: 40px;
+}
+
 .buttons-area {
 
     display: flex;
